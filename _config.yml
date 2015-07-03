@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://KirkSteffke.github.io
+title: Lab Coat Lessons
+email: kirk@crmscience.com
+author: Kirk Steffke
+description: The description
+paginate: 3
+google_analytics: 
